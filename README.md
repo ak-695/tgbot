@@ -133,6 +133,12 @@ This will be followed by you needing to input your password.
 
 Change YOUR_USER and YOUR_DB_NAME appropriately.
 
+## Installation
+
+### Deploy to Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ak-695/tgbot)
+
+
 - finally:
 
 `psql YOUR_DB_NAME -h YOUR_HOST YOUR_USER`
